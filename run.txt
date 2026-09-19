@@ -1,0 +1,3 @@
+sudo apt update
+sudo apt install pciutils usbutils dmidecode lshw acpi-tools efibootmgr
+sudo python3 hackintosh_report.py
